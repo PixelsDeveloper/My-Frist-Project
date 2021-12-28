@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1409" height="523" viewBox="0 0 1409 523">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0060ff;
+        font-size: 332px;
+        font-family: Sofia-Regular, Sofia;
+      }
+
+      .cls-2 {
+        fill: #ff3800;
+      }
+
+      .cls-3 {
+        fill: #12e481;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.224" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffe5"/>
+      <stop offset="1" stop-color="#002bff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1.114" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffe5"/>
+      <stop offset="1" stop-color="#04f"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_58" data-name="Group 58" transform="translate(-315 -891)">
+    <text id="Xpixel" class="cls-1" transform="translate(714.752 1269)"><tspan x="0" y="0">X</tspan><tspan class="cls-2" y="0">p</tspan><tspan class="cls-3" y="0">i</tspan><tspan y="0">x</tspan><tspan class="cls-2" y="0">e</tspan><tspan class="cls-3" y="0">l</tspan></text>
+    <path id="Path_89" data-name="Path 89" class="cls-4" d="M149.2,169.4V0L258.842,201.019l-73.1,109.647H76.1L3,201.019,112.647,0V169.4a36.549,36.549,0,1,0,36.549,0ZM57.823,328.94h146.2v36.549H57.823Z" transform="translate(321 975.373)"/>
+    <path id="Path_90" data-name="Path 90" class="cls-4" d="M149.2,169.4V0L258.842,201.019l-73.1,109.647H76.1L3,201.019,112.647,0V169.4a36.549,36.549,0,1,0,36.549,0ZM57.823,328.94h146.2v36.549H57.823Z" transform="translate(321 975.373)"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-5" width="35" height="35" rx="17.5" transform="translate(1689 1237)"/>
+  </g>
+</svg>
